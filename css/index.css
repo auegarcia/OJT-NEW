@@ -1,0 +1,847 @@
+.typesofticketsand-priority-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .typesofticketsand-priority-typesofticketsand-priority {
+    width: 100%;
+    height: 2435px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .typesofticketsand-priority-faq {
+    gap: 32px;
+    top: 1730px;
+    left: 91px;
+    width: 1259px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+  .typesofticketsand-priority-text {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 110.00000238418579%;
+  }
+  .typesofticketsand-priority-line {
+    gap: 24px;
+    display: flex;
+    align-self: stretch;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .typesofticketsand-priority-text002 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    flex-grow: 1;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text004 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    text-align: left;
+    line-height: 110.00000238418579%;
+  }
+  .typesofticketsand-priority-text005 {
+    color: rgba(130, 130, 130, 1);
+    width: 956px;
+    height: auto;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-line1 {
+    gap: 24px;
+    display: flex;
+    align-self: stretch;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .typesofticketsand-priority-text007 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    flex-grow: 1;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text009 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    text-align: left;
+    line-height: 110.00000238418579%;
+  }
+  .typesofticketsand-priority-text010 {
+    color: rgba(130, 130, 130, 1);
+    width: 956px;
+    height: auto;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-pricing-grid {
+    gap: 32px;
+    top: 502px;
+    left: 81px;
+    width: 1279px;
+    display: flex;
+    position: absolute;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+  .typesofticketsand-priority-pricing {
+    gap: 32px;
+    width: 404px;
+    display: flex;
+    padding: 48px;
+    overflow: hidden;
+    box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10000000149011612) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 12px;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .typesofticketsand-priority-header {
+    gap: 12px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-price {
+    gap: 8px;
+    display: flex;
+    align-items: flex-end;
+  }
+  .typesofticketsand-priority-text012 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    text-align: left;
+    line-height: 110.00000238418579%;
+  }
+  .typesofticketsand-priority-feature-list {
+    gap: 12px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-text016 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text018 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text020 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-pricing1 {
+    gap: 32px;
+    width: 406px;
+    display: flex;
+    padding: 48px;
+    overflow: hidden;
+    box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10000000149011612) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 12px;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .typesofticketsand-priority-header1 {
+    gap: 12px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-price1 {
+    gap: 8px;
+    display: flex;
+    align-items: flex-end;
+  }
+  .typesofticketsand-priority-text022 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    text-align: left;
+    line-height: 110.00000238418579%;
+  }
+  .typesofticketsand-priority-feature-list1 {
+    gap: 12px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-text024 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text026 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text028 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-pricing2 {
+    gap: 32px;
+    width: 405px;
+    display: flex;
+    padding: 48px;
+    overflow: hidden;
+    box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10000000149011612) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 12px;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .typesofticketsand-priority-header2 {
+    gap: 12px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-price2 {
+    gap: 8px;
+    display: flex;
+    align-items: flex-end;
+  }
+  .typesofticketsand-priority-text030 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    text-align: left;
+    line-height: 110.00000238418579%;
+  }
+  .typesofticketsand-priority-feature-list2 {
+    gap: 12px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-text032 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text034 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-copy {
+    gap: 24px;
+    top: 267px;
+    left: 299px;
+    width: 842px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+  .typesofticketsand-priority-text036 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: center;
+    line-height: normal;
+  }
+  .typesofticketsand-priority-text038 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: center;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-pricing-grid1 {
+    gap: 32px;
+    top: 1249px;
+    left: 80px;
+    width: 1279px;
+    display: flex;
+    position: absolute;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+  .typesofticketsand-priority-pricing3 {
+    gap: 32px;
+    width: 404px;
+    display: flex;
+    padding: 48px;
+    overflow: hidden;
+    box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10000000149011612) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 12px;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .typesofticketsand-priority-header3 {
+    gap: 12px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-price3 {
+    gap: 8px;
+    display: flex;
+    align-items: flex-end;
+  }
+  .typesofticketsand-priority-text040 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    text-align: left;
+    line-height: 110.00000238418579%;
+  }
+  .typesofticketsand-priority-feature-list3 {
+    gap: 12px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-text042 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text044 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text046 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-pricing4 {
+    gap: 32px;
+    width: 406px;
+    display: flex;
+    padding: 48px;
+    overflow: hidden;
+    box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10000000149011612) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 12px;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .typesofticketsand-priority-header4 {
+    gap: 12px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-price4 {
+    gap: 8px;
+    display: flex;
+    align-items: flex-end;
+  }
+  .typesofticketsand-priority-text048 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    text-align: left;
+    line-height: 110.00000238418579%;
+  }
+  .typesofticketsand-priority-feature-list4 {
+    gap: 12px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-text050 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text052 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text054 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-pricing5 {
+    gap: 32px;
+    width: 405px;
+    display: flex;
+    padding: 48px;
+    overflow: hidden;
+    box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.10000000149011612) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 12px;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .typesofticketsand-priority-header5 {
+    gap: 12px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-price5 {
+    gap: 8px;
+    display: flex;
+    align-items: flex-end;
+  }
+  .typesofticketsand-priority-text056 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    text-align: left;
+    line-height: 110.00000238418579%;
+  }
+  .typesofticketsand-priority-feature-list5 {
+    gap: 12px;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-text058 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text060 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-copy1 {
+    gap: 24px;
+    top: 1014px;
+    left: 293px;
+    width: 842px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    flex-direction: column;
+  }
+  .typesofticketsand-priority-text062 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: center;
+    line-height: normal;
+  }
+  .typesofticketsand-priority-text064 {
+    color: rgba(130, 130, 130, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: center;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-navigation {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 164px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .typesofticketsand-priority-items {
+    gap: 48px;
+    top: 56px;
+    left: 970px;
+    width: 390px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-text066 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text068 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text070 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-button {
+    gap: 8px;
+    display: flex;
+    padding: 14px 24px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+    align-items: center;
+    border-radius: 8px;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 1);
+  }
+  .typesofticketsand-priority-text072 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text074 {
+    top: 67px;
+    left: 80px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-navigation1 {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 164px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .typesofticketsand-priority-items1 {
+    gap: 48px;
+    top: 56px;
+    left: 970px;
+    width: 390px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-text076 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text078 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text080 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-button1 {
+    gap: 8px;
+    display: flex;
+    padding: 14px 24px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+    align-items: center;
+    border-radius: 8px;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 1);
+  }
+  .typesofticketsand-priority-text082 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text084 {
+    top: 67px;
+    left: 80px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-navigation2 {
+    top: 0px;
+    left: 0px;
+    width: 1470px;
+    height: 164px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .typesofticketsand-priority-items2 {
+    gap: 48px;
+    top: 56px;
+    left: 1299px;
+    width: 91px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .typesofticketsand-priority-button2 {
+    gap: 8px;
+    display: flex;
+    padding: 14px 24px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+    align-items: center;
+    border-radius: 8px;
+    justify-content: center;
+    background-color: rgba(122, 74, 175, 1);
+  }
+  .typesofticketsand-priority-text086 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text088 {
+    top: 64px;
+    left: 1172px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text090 {
+    top: 64px;
+    left: 1045px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text092 {
+    top: 64px;
+    left: 944px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text094 {
+    top: 55px;
+    left: 240px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-image2 {
+    top: 33px;
+    left: 81px;
+    width: 138px;
+    height: 75px;
+    position: absolute;
+  }
+  .typesofticketsand-priority-navigation-footer {
+    top: 2188px;
+    left: -14px;
+    width: 1470px;
+    height: 264px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .typesofticketsand-priority-items3 {
+    gap: 24px;
+    top: 18px;
+    left: 751px;
+    width: 187px;
+    display: flex;
+    position: absolute;
+    align-items: flex-end;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .typesofticketsand-priority-text096 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: center;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-items4 {
+    gap: 24px;
+    top: -6px;
+    left: 975px;
+    width: 187px;
+    height: 168px;
+    display: flex;
+    position: absolute;
+    align-items: flex-end;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .typesofticketsand-priority-text098 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: center;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text100 {
+    color: rgba(68, 68, 68, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: center;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text102 {
+    color: rgba(68, 68, 68, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: center;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-items5 {
+    gap: 24px;
+    top: 30px;
+    left: 1203px;
+    width: 187px;
+    height: 168px;
+    display: flex;
+    position: absolute;
+    align-items: flex-end;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .typesofticketsand-priority-text104 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: center;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text106 {
+    color: rgba(68, 68, 68, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: center;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text108 {
+    color: rgba(68, 68, 68, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: center;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text110 {
+    color: rgba(68, 68, 68, 1);
+    height: auto;
+    align-self: stretch;
+    text-align: center;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-text112 {
+    top: 198px;
+    left: 64px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 150%;
+  }
+  .typesofticketsand-priority-divider {
+    top: 1px;
+    left: 80px;
+    width: 1280px;
+    height: 1px;
+    position: absolute;
+    align-self: stretch;
+  }
+  
